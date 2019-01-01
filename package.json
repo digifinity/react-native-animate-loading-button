@@ -6,9 +6,11 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/andcosta/react-native-animate-loading-button.git"
+    "url": "https://github.com/digifinity/react-native-animate-loading-button.git"
   },
-  "files": ["src"],
+  "files": [
+    "src"
+  ],
   "keywords": [
     "react",
     "native",
